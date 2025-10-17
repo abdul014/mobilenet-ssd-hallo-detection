@@ -117,7 +117,7 @@ cap = cv2.VideoCapture(1)
 
 ## 📸 Contoh Hasil Deteksi
 <p align="center">
-  <img src="https://i.imgur.com/BjYxjZc.png" width="700" alt="Detection Result Example">
+  <img src="https://github.com/abdul014/mobilenet-ssd-hallo-detection/blob/main/bounding%20box.gif?raw=true" width="700" alt="Detection Result Example">
 </p>
 
 Hasil deteksi akan menampilkan:
