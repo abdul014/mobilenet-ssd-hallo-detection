@@ -46,7 +46,7 @@ MobileNet-SSD (Single Shot Multibox Detector) menggabungkan kecepatan tinggi den
 Untuk membuat dataset kustom (misalnya label “hallo”), digunakan **[LabelImg](https://github.com/HumanSignal/labelImg)**.
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/6542997/107874507-54e9a280-6e83-11eb-8c68-c7ef2a52d79f.png" width="750" alt="LabelImg Interface">
+  <img src="https://github.com/HumanSignal/labelImg/raw/master/readme/images/label-studio-1-6-player-screenshot.png" width="750" alt="LabelImg Interface">
 </p>
 
 **Langkah singkat pelabelan:**
