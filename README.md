@@ -55,3 +55,18 @@ Untuk membuat dataset kustom (misalnya label “hallo”), digunakan **[LabelImg
    labelImg
    ```
 3. Pilih folder dataset, beri label "hallo", lalu simpan anotasi (.xml atau .txt).
+4. Ulangi proses untuk setiap gambar dalam dataset.  
+5. Pastikan semua anotasi tersimpan dalam satu folder (contoh: `annotations/`) dan cocok dengan nama file gambar.  
+
+> 💡 **Tips:** Gunakan format PascalVOC (`.xml`) jika kamu akan melakukan konversi ke TensorFlow Record, atau YOLO (`.txt`) untuk model ringan berbasis bounding box sederhana.
+
+---
+
+## ⚙️ Instalasi & Konfigurasi
+
+Sebelum menjalankan proyek, pastikan Python telah terinstal dan versi TensorFlow Lite kompatibel dengan model MobileNet-SSD yang digunakan.
+
+### 💻 Untuk Windows
+```bash
+pip install tensorflow opencv-python numpy
+```
