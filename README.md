@@ -1,7 +1,7 @@
 <h1 align="center">🧠 MobileNet-SSD Object Detection — Label “Hallo”</h1>
 
 <p align="center">
-  <img src="https://i.imgur.com/qkt6XiQ.png" width="700" alt="MobileNet SSD Demo">
+  <img src="https://github.com/abdul014/mobilenet-ssd-hallo-detection/blob/main/Object%20Detection%20Test.gif?raw=true" width="700" alt="MobileNet SSD Demo">
 </p>
 
 <p align="center">
