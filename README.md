@@ -174,7 +174,7 @@ Kamu bisa mencoba langsung proyek ini di **Google Colab** tanpa konfigurasi manu
 
 ## ✍️ Disusun Oleh
 **Abd Rahman**  
-_From Komunitas EraNusaData_  
+_From EraNusaData_  
 Magister Statistika dan Sains Data, IPB University  
 
 📧 [GitHub](https://github.com/abdul014) • [LinkedIn](https://linkedin.com/in/abd-rahman-ysf)
