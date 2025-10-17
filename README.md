@@ -34,10 +34,6 @@ Model digunakan untuk mengenali objek khusus dengan label **“hallo”** dan di
 ## 🧩 Arsitektur dan Labeling
 
 ### 🔹 Arsitektur Model
-<p align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:1200/1*cASGJuhsO5S-KX6BfKML5A.png" width="700" alt="MobileNet SSD Architecture">
-</p>
-
 MobileNet-SSD (Single Shot Multibox Detector) menggabungkan kecepatan tinggi dengan akurasi yang memadai menggunakan backbone **MobileNet**.
 
 ---
@@ -53,3 +49,9 @@ Untuk membuat dataset kustom (misalnya label “hallo”), digunakan **[LabelImg
 1. Instal `labelImg`  
    ```bash
    pip install labelImg
+   ```
+2. Jalankan aplikasi
+   ```bash
+   labelImg
+   ```
+3. Pilih folder dataset, beri label "hallo", lalu simpan anotasi (.xml atau .txt).
